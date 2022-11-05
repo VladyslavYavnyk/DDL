@@ -1,0 +1,6 @@
+  PID TTY           TIME CMD
+33459 ttys002    0:00.97 -zsh
+33473 ttys002    0:00.00 -zsh
+33500 ttys002    0:00.00 -zsh
+33501 ttys002    0:00.04 -zsh
+33503 ttys002    0:00.10 /Users/krab/.cache/gitstatus/gitstatusd-darwin-arm64 -G v1.5.4 -s -1 -u -1 -d -1 -c -1 -m -1 -v FATAL -t 16
